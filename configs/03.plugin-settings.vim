@@ -43,4 +43,6 @@ let g:ctrlp_custom_ignore = {
 " prettier
 let g:prettier#autoformat_require_pragma = 0
 
+" coc
+let g:coc_global_extensions = ['coc-json', 'coc-css', 'coc-dot-complete', 'coc-eslint', 'coc-explorer', 'coc-git', 'coc-highlight', 'coc-html', 'coc-json', 'coc-markdownlint', 'coc-markdown-preview-enhanced', 'coc-prettier', 'coc-sh', 'coc-spell-checker', 'coc-stylelintplus', 'coc-snippets', 'coc-tsserver', 'coc-xml', 'coc-yaml']
 

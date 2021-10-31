@@ -24,4 +24,6 @@ Plug 'prettier/vim-prettier', {
   \ 'branch': 'release/0.x'
   \ }
 
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
+
 call plug#end()
