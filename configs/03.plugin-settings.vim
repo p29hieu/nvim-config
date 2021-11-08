@@ -18,7 +18,7 @@ let g:NERDCustomDelimiters = { 'c': { 'left': '/**','right': '*/' } }
 
 let g:NERDTreeChDirMode=2
 
-let g:NERDTreeIgnore=['\.rbc$', '\~$', '\.pyc$', '\.db$', '\.sqlite$', '__pycache__', 'node_modules']
+let g:NERDTreeIgnore=['\.rbc$', '\~$', '\.pyc$', '\.db$', '\.sqlite$', '__pycache__']
 
 let g:NERDTreeShowBookmarks=1
 
